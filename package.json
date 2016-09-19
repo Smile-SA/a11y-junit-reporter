@@ -16,14 +16,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marob/a11y-junit-reporter.git"
+    "url": "git+https://github.com/Smile-SA/a11y-junit-reporter.git"
   },
   "author": "",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/marob/a11y-junit-reporter/issues"
+    "url": "https://github.com/Smile-SA/a11y-junit-reporter/issues"
   },
-  "homepage": "https://github.com/marob/a11y-junit-reporter#readme",
+  "homepage": "https://github.com/Smile-SA/a11y-junit-reporter#readme",
   "dependencies": {
     "junit-report-builder": "1.1.1"
   }
