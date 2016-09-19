@@ -1,0 +1,30 @@
+{
+  "name": "a11y-junit-reporter",
+  "version": "1.0.0",
+  "description": "JUnit reporter for a11y module",
+  "main": "a11y-junit-reporter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "a11y",
+    "accessibility",
+    "wai",
+    "aria",
+    "junit",
+    "report"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marob/a11y-junit-reporter.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/marob/a11y-junit-reporter/issues"
+  },
+  "homepage": "https://github.com/marob/a11y-junit-reporter#readme",
+  "dependencies": {
+    "junit-report-builder": "1.1.1"
+  }
+}
